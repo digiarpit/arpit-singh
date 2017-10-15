@@ -1,0 +1,9 @@
+ SOURCE CODE: # to check whether number entered is positive,negative or zero. 
+ num = input(&quot;Enter a number :&quot;) 
+ if int(num) == 0: print(&quot; entered number is 0.&quot;)
+ elif int(num)&lt;0: print(&quot; entered number is a negative number.&quot;) 
+ else: print(&quot; entered number is a positive number.&quot;) 
+ 
+ OUTPUT:
+ Enter a number :50
+ entered number is a positive number.
